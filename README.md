@@ -1,4 +1,4 @@
-#UNDER CONSTRUCTION, MAY NOT WORK
+# UNDER CONSTRUCTION, MAY NOT WORK
 
 # stable-diffusion-webui-gpu-cooling-interval
 
